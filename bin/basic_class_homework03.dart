@@ -7,10 +7,13 @@ create an object named "person" whose name is "Ali"
 */
 
 class Person {
-  String name = 'Ali';
+  String name = 'ali';
+  Person(String name) {
+    this.name = name;
+  }
 }
 
-void main()  {
-  Person a = Person();
+void main() {
+  Person a = Person('ali');
   print(a.name);
 }
