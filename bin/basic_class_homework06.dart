@@ -10,4 +10,7 @@ class Person {
 }
 
 void main() {
+  Person x = Person();
+  print(x.name);
+  print(x.age);
 }
