@@ -14,7 +14,4 @@ class Person {
 }
 
 void main() {
-  Person a = Person('ali',25);
-
-  
 }
