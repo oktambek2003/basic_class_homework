@@ -14,7 +14,7 @@ class Person {
 }
 
 void main() {
-  Person a = Person('',0);
+  Person a = Person('ali',25);
 
   print(a.name);
   print(a.age);
