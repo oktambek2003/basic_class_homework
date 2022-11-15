@@ -20,7 +20,7 @@ void main() {
   Person p1 = Person('Anvar');
   Person p2 = Person('Shavkat');
   Person p3 = Person('Jasur');
-  print(p1.name);
+   print(p1.name);
   print(p2.name);
   print(p3.name);
 }

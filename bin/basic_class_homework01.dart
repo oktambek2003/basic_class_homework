@@ -7,5 +7,5 @@ class Person {
 
 void main() {
   Person a = Person();
-  print(a);
+  print(a) ;
 }

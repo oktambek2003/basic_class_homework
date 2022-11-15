@@ -8,6 +8,6 @@ class Person {
 }
 
 void main() {
-  Person a = Person();
+  Person a  = Person();
   print(a.name);
 }

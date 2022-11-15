@@ -14,7 +14,7 @@ class Person {
   }
 }
 
-void main() {
+void  main() {
   Person P1 = Person('Anvar');
   Person P2 = Person('Shavkat');
   print(P1.name);

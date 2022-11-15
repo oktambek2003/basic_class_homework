@@ -10,7 +10,7 @@ class Person {
   String name = 'Ali';
 }
 
-void main() {
+void main()  {
   Person a = Person();
   print(a.name);
 }
